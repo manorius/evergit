@@ -1,0 +1,2 @@
+# evergit
+evernote-git bridge
